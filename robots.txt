@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://opesia-togel-amalan.github.io/sitemap.xml
